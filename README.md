@@ -1,4 +1,4 @@
-ntroduction
+Introduction
 
 This project aims to nowcast the Consumer Price Index (CPI) and its sub-categories for three consecutive months using machine learning techniques. CPI is an important economic indicator that measures the average change over time in the prices paid by consumers for a basket of goods and services. Nowcasting CPI is crucial for banks, businesses, and policymakers to make informed decisions regarding interest rates, fiscal policies, and investment strategies.
 
